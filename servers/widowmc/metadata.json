@@ -1,6 +1,6 @@
 {
     "id": "widowmc",
-    "name": "WidowMC Network",
+    "name": "Widow Network",
     "store": "https://store.widowmc.net",
     "addresses": [
       "widowmc.net"
@@ -9,14 +9,11 @@
     "primaryColor": "#d50101",
     "secondaryColor": "#FFFFFF",
     "minecraftVersions": [
-      "1.8.*",
-      "1.16.*",
-      "1.17.*",
-      "1.18.*",
       "1.19.*",
-      "1.20.*"
+      "1.20.*",
+      "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.19.2",
+    "primaryMinecraftVersion": "1.20.4",
     "primaryRegion": "NA",
     "regions": [
       "NA"
@@ -26,7 +23,7 @@
       "Survival"
     ],
     "socials": {
-      "discord": "https://discord.gg/widow-network-1100958998531940368"
+      "discord": "https://discord.gg/widowmc"
     },
     "crossplay": true
   }
